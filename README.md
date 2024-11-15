@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Sai Sriyan.<br>I am a kid from India who likes to make websites!<br>I make them just to have fun and show it to the world.<br>I show my projects on my blog. 
+Hello! My name is Sai Sriyan.<br>I am a kid from India who likes to make websites!<br>I make them just to have fun and show it to the world.<br>I show my projects on my [Blog](https://sriyan-blogs.blogspot.com). 
 
 
 # 💻 Tech Stack:
