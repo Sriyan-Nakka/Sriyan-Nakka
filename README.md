@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sai Sriyan Nakka.<br>I am a 12 year old kid who loves web development and making websites!<br>I want my creations to be seen around the world!<br>I display/show these projects with the help of GitHub on my [Blogger Website](https://www.sriyansites.mywire.org).
+I am Sai Sriyan Nakka.<br>I am a 12 year old kid who loves web development and making websites!<br>I want my creations to be seen around the world!<br>I experiment/learn about different functions etc. With the help of CodePen!<br>I display/show these projects with the help of GitHub on my [Blogger Website](https://www.sriyansites.mywire.org).
 
 
 ## 🌐 Socials:
