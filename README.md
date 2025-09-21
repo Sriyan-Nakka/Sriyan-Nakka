@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sai Sriyan Nakka.<br>I am a 13 year old kid who loves web development and making websites!<br>I want my creations to be seen around the world!<br>I experiment/learn about different functions, properties and languages etc. Through the projects I create and CodePen!<br>I display/show these projects with the help of GitHub on my [Blogger Website](https://www.sriyansites.mywire.org). 
+I am Sai Sriyan Nakka.<br>I am a teenager who loves web development and making websites!<br>I want my creations to be seen around the world!<br>I experiment/learn about different functions, properties and languages etc. Through the projects I create and CodePen!<br>I display/show these projects with the help of GitHub on my [Blogger Website](https://sriyansites.web.app). 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
