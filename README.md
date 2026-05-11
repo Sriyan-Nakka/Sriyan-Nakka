@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am Sai Sriyan Nakka.<br>I am a teenager who loves web development and making websites!<br>I want my creations to be seen around the world!<br>I experiment/learn about different functions, properties and languages etc. Through the projects I create and CodePen!<br>I display/show these projects with the help of GitHub on my [Blogger Website](https://sriyansites.web.app). 
+I am Sai Sriyan Nakka. I am a teenage kid who loves web developement!
+
+- I love to make various types of websites. Like Productivity websites, Utility Websites, or Simple and Fun Games!
+
+- I want my creations and projects to be seen and appreciated around the world!
+
+- I display / put my websites in a list of chronological order where you can learn more about what I made in my [Website](https://sriyansites.web.app)!
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -10,6 +16,4 @@ I am Sai Sriyan Nakka.<br>I am a teenager who loves web development and making w
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-[![](https://visitcount.itsvg.in/api?id=Sriyan-Nakka&icon=8&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
